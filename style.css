@@ -1,0 +1,25 @@
+header{
+    background-color: darkorange;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+nav li{
+
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(24, 11, 1);
+    font-weight: bold;
+    font-size: large;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
